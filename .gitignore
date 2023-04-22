@@ -1,7 +1,6 @@
 *.svs
 .vscode/settings.json
 .Rproj.user
-panCK_files
 HE_files
 p63_files
 EBER_files
